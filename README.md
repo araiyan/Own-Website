@@ -30,5 +30,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-To find a green dot go Here --> [Here](https://github.com/araiyan/Own-Website)
+To find a green dot go Here --> [Here](https://araiyan.github.io/Own-Website/whatever.html)
 
