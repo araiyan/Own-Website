@@ -1,6 +1,6 @@
 ##Welcome to my First Website
 
-- [Random-Stuff](https://araiyan.github.io/Own-Website/Random-stuff) </li>
+- [Random-Stuff](https://araiyan.github.io/Own-Website/Random-stuff)
 
 <br>
 <h2>About</h2>
