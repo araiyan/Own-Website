@@ -16,9 +16,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-<head>
-<h1> Welcome to My First Website </h1>
-</head>
+
+## Welcome to My First Website
+
 <body>
 [Random-Stuff](https://araiyan.github.io/Own-Website/Random-stuff) </li>
 
