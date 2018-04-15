@@ -14,6 +14,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
 
 <head>
 <h1> Welcome to My First Website </h1>
