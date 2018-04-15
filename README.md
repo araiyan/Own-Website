@@ -1,33 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to My First Website
 
-You can use the [editor on GitHub](https://github.com/araiyan/Own-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 To find a green dot go Here --> [Here](https://araiyan.github.io/Own-Website/green-dot.html)
-
+<br>
 To learn more about Brown Bears click [Here](https://araiyan.github.io/Own-Website/Brown-Bear.html)
+
+<h2>About</h2>
+<br>
+<p>I'm still learning how to create a good website so this isn't much, but I'm working on imporving it!</p>
+
