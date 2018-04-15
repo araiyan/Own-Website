@@ -10,33 +10,12 @@
 
 <body>
 
-<canvas id="myCanvas" width="1000" height="550">
-
-</canvas>
-
-<script type="text/javascript">
-
-  var canvas = document.getElementById("myCanvas");
-
-  var canv = canvas.getContext("2d");
-
-  function drawCircle(x, y, radius, color) {
-
-    canv.beginPath();
-
-    canv.fillStyle = color;
-
-    canv.arc(x, y, radius, 0, 2 * Math.PI, false);
-
-    canv.fill();
-
-    canv.closePath();
-
-  }
-
-  drawCircle(100, 100, 30, "#00ff50");
-
 </script>
+<img src="https://www.pinterest.pt/pin/517491813416681930/" alt="GreenDot" usemap="#GreenDot" width="200" height="200"i>
+
+<map name="GreenDot">
+  <area shape="circle" coords="100,100,30" alt="Green dot" onclick="alert('Raiyan wants to know your location')">
+</map>
 
 </body>
 
