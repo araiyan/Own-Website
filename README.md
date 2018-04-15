@@ -36,10 +36,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<body>
+
 [Random-Stuff](https://araiyan.github.io/Own-Website/Random-stuff) </li>
 
-  <br>
-  <h2>About</h2>
-  <p>I'm still learning how to create a good website so this isn't much, but I'm working on imporving it!</p>
-</body>
+<br>
+<h2>About</h2>
+<p>I'm still learning how to create a good website so this isn't much, but I'm working on imporving it!</p>
+
