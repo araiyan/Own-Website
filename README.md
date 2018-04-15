@@ -28,6 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-To find a green dot go Here --> [Here](https://araiyan.github.io/Own-Website/whatever.html)
+To find a green dot go Here --> [Here](https://araiyan.github.io/Own-Website/green-dot.html)
 
 To learn more about Brown Bears click [Here](https://araiyan.github.io/Own-Website/Brown-Bear.html)
